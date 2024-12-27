@@ -144,7 +144,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: lastName
-          label: 이름
+          label: Last Name
           hideLabel: true
           placeholder: Last Name
           isRequired: false
