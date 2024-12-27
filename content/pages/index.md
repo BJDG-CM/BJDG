@@ -165,7 +165,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: 메일 수신에 동의합니다
           isRequired: false
           width: full
           type: CheckboxFormControl
