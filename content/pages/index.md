@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 이예준(LEE YEJUN)
+    title: LEE YEJUN
     subtitle: ''
     styles:
       self:
