@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: LEE YEJUN
-    subtitle: ''
+    subtitle: 광주과학기술원(GIST) 재학중..
     styles:
       self:
         height: auto
