@@ -153,7 +153,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: 이메일
           isRequired: true
           width: 1/2
           type: EmailFormControl
