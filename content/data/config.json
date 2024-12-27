@@ -79,7 +79,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "01062363578",
+            "phoneNumber": "010-6236-3578",
             "phoneAltText": "My phone number",
             "email": "yejuneric@naver.com",
             "emailAltText": "My email",
