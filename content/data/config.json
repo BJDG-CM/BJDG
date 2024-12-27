@@ -72,7 +72,8 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/BJDG-CM",
-                "altText": "Netlify templates"
+                "altText": "Netlify templates",
+                "icon": "apple"
             }
         ],
         "contacts": {
