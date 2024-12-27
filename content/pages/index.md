@@ -155,7 +155,7 @@ sections:
           hideLabel: true
           placeholder: 이메일
           isRequired: true
-          width: full
+          width: 1/2
           type: EmailFormControl
         - name: address
           label: Address
