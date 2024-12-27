@@ -160,7 +160,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: 주소
           isRequired: true
           width: 1/2
           type: TextFormControl
