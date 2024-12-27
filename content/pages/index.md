@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 이예준(lEE yEJUN)
-    subtitle: 060802
+    subtitle: 천안불당초등학교(
     styles:
       self:
         height: auto
