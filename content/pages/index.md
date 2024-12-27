@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/KakaoTalk_20240311_131632162.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
