@@ -151,7 +151,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: 이메일 주소
           hideLabel: true
           placeholder: Email
           isRequired: true
