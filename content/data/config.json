@@ -83,7 +83,7 @@
             "phoneAltText": "My phone number",
             "email": "yejuneric@naver.com",
             "emailAltText": "My email",
-            "address": "충청남도 아산시 탕정면 탕정면로 37, 탕정삼성트라팰리스아파트 501동 2703호(31455)",
+            "address": "충청남도 아산시 탕정면 탕정면로 37, 탕정삼성트라팰리스아파트(31455)",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
